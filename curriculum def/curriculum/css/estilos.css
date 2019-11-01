@@ -1,0 +1,57 @@
+@font-face{
+	font-family: oswald;
+	src: url(fuentes/Oswald-Regular.ttf);
+}
+
+ .contenedor{
+ 	border: 1px solid #ccc;
+ 	margin: 0 auto;
+ 	width: 60%;
+ 	background: #fff;
+ 	padding: 10px;
+ }
+
+ .header{
+	border: 1px solid #00897b;
+	background: #00897b;
+	padding: 10px;
+	color: #fff;
+	font-style: oblique;
+	font-family: oswald
+}
+
+.principal{
+
+background: #00897b; 
+padding: 10px;
+color: white;
+
+}
+
+.cabecera{
+	display: flex;
+
+}
+
+.nombre{
+	margin-left: 40px;
+	width: 100%;
+}
+
+.titulo {
+
+	color: #fff;
+	background: #00695c
+}
+
+
+.h {
+	color: #00695c;
+	 display: inline;
+	 text-align: left
+}
+
+.habilidades{
+	display: flex;
+
+}
